@@ -4,7 +4,7 @@ title: "🎨 Product Design"
 sidebarTitle: "🎨 Product Design"
 sidebarGroup: "design"
 yaml: true
-levels: 6
+levels: 5
 homepage: true
 topics:
   - name: "Visão estratégica"

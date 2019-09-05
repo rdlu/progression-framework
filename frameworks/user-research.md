@@ -297,7 +297,7 @@ topics:
         - "Identifica novos mercados e grupos de clientes em potencial e promove a recomendações com base nisso"
 ---
 ### About our research progression frameworks
-The product progression framework is a tool that helps Product Managers and leaders:
+The user research progression framework is a tool that helps User Researchers and leaders:
 - make development and career plans
 - talk about what we’re looking for from User Researchers in a consistent way
 - set a fair level of compensation.
@@ -307,14 +307,14 @@ The framework is a compass, not a GPS.
 It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
 
 ### How does it work?
-The framework covers all the things we’re looking for from Researchers. We sort them into five levels. Each of those levels has a fairly wide salary range associated with it. Basically, the more behaviours you show from your level, the more you’ll progress.
+The framework covers all the things we’re looking for from User Researchers. We sort them into five levels. Each of those levels has a fairly wide salary range associated with it. Basically, the more behaviours you show from your level, the more you’ll progress.
 
 Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
 
 ### Things to keep in mind
-- There are many different ways to progress and be valuable to GetNinjas as you grow, including deep technical knowledge and ability and people management. All are equally valuable paths in GetNinjas' product team.
+- There are many different ways to progress and be valuable to GetNinjas as you grow, including deep technical knowledge and ability and people management. All are equally valuable paths in GetNinjas' user research team.
 - The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
-- Product Management progression isn’t an exact science and there will always be some ambiguity.
+- User research progression isn’t an exact science and there will always be some ambiguity.
 - This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.
 - There will be levels on top (eg ‘Inventor of the iPhone’), but we won’t add them until we need them.
 
