@@ -1,8 +1,8 @@
 const ReactGA = require('react-ga')
 
-ReactGA.initialize('UA-63104269-2')
+ReactGA.initialize('UA-25299114-21')
 ReactGA.set({
-  appName: 'Progression at Monzo'
+  appName: 'Progression at GetNinjas'
 })
 
 exports.onRouteUpdate = (state) => {
