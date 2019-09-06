@@ -8,57 +8,57 @@ levels: 6
 homepage: true
 topics:
   - name: "Credibilidade e influência"
-      title: "Credibilidade e influência"
-      content:
-      - level: 1
-        criteria: 
-          - "Conhece os valores da empresa"
-          - "Desenvolve conhecimento e especialização pessoal na própría disciplina"
-          - "Gera confiança ao comunicar de modo honesto e consistente e ao compartilhar informações abertamente"
-          - "Segue com o comportamento, honrando compromissos e mantendo promessas"
-          - "Demonstra conhecimento sobre a especialização de outros e escalona situações ambiguas para o especialista adequado."
-      - level: 2
-        criteria: 
-          - "Conhece e instrui as pessoas da empresa sobre os valores da companhia"
-          - "Demonstra capacidade e compartilha conhecimento e especialização pessoal com os colegas"
-          - "Continua a desenvolver conhecimento na área de especialidade."
-          - "Demonstra confiança ao explicar e justificar suas próprias decisões aos outros membros da equipe."
-          - "Constrói confiança nos membros da equipe ao demonstrar dependência e fiabilidade."
-          - "Bom nível de conhecimento e uso da língua portuguesa. Comete poucos erros de gramática e concordância."
-      - level: 3
-        criteria: 
-          - "Aplica especialização pessoal profunda para melhorar o desempenho ou solucionar questões entre os colaboradores."
-          - "Entende tendências e processos de sua área e especialidade e é capaz de inerpretá-las para torná-las efetivas na organização."
-          - "Serve como exemplo, demonstrando consistência em príncípios, práticas e comportamentos, exemplificando os próprios valores e os da organização em todas as interações."
-          - "Pratica fala convidativa, comportamento colaborativo e escuta ativa"
-          - "Trabalha e cria programas em prol de tornar os valores culturais da organização vivos tanto nas novas pessoas contratadas quanto nas demais pessoas da organização"
-          - "Ótimo nível de conhecimento e uso da língua portuguesa. Comete raros erros de gramática e concordância."
-          - "Admite abertamente contratempos ou erros e comunica os possíveis cursos de ações corretiva."
-          - "Mantém bom relacionamento e contato com as áreas e lideranças"
-          - "Reconhece não ter todas as respostas, integra a contribuição de outros para questões que são ambíguas ou não estão sob controle."
-          - "Conhece, instrui as pessoas e demonstra os valores em suas ações."
-      - level: 4
-        criteria: 
-          - "Conhece, dissemina e pratica os valores em suas ações, além de ser exemplo dos mesmos"
-          - "Demonstra conhecimento aprofundado em sua especialidade e no negócio, gera a confiança dos colaboradores e pares."
-          - "Defende o que acredita ser o melhor e se esforça para garantir que as práticas e comportamentos da equipe estão alinhados com os valores da organização."
-          - "Ótimo nível de conhecimento e uso da língua portuguesa. Comete raros erros de gramática e concordância."
-          - "Pratica fala convidativa, comportamento colaborativo e escuta ativa"
-          - "Contrói relacionamento e forma parcerias com especialistas internos e externos além de comunidades para manter-se à frente das tendências, ideias e inovações de sua especialidades."
-      - level: 5
-        criteria: 
-          - "Conhece, dissemina e pratica os valores em suas ações, além de ser exemplo dos valores"
-          - "Aplica especialização profunda de negócio e serve como um recurso crível em sua área de especialização."
-          - "Promove a confiança estabelecendo uma cultura de honestidade."
-          - "Serve como exemplo, demonstrando consistencia em príncípios, práticas e comportamentos, exemplificando os próprios valores e os da organização em todas as interações."
-          - "Cria e apoia uma cultura de abertura onde as pessoas podem admitir não ter todas as respostas."
-      - level: 6
-        criteria: 
-          - "Conhece, dissemina e pratica os valores em suas ações, além de ser exemplo dos valores"
-          - "Aplica o conhecimento sobre a amplitude de negócios."
-          - "Transmite uma reputação pessoal de honestidade e confiabilidade que influencia a percepção dos funcionários e do público da marca."
-          - "Cria sistemas e processos por toda a organização que refletem o compromisso pessoal com os princípios e valores, recompensando e reconhecendo o     comportamento confiável e consistente de outros."
-          - "Lidera a organização em momentos de incerteza ou em direção a resultados desconhecidos, criando uma atmosfera de apoio."
+    title: "Credibilidade e influência"
+    content:
+    - level: 1
+      criteria: 
+        - "Conhece os valores da empresa"
+        - "Desenvolve conhecimento e especialização pessoal na própría disciplina"
+        - "Gera confiança ao comunicar de modo honesto e consistente e ao compartilhar informações abertamente"
+        - "Segue com o comportamento, honrando compromissos e mantendo promessas"
+        - "Demonstra conhecimento sobre a especialização de outros e escalona situações ambiguas para o especialista adequado."
+    - level: 2
+      criteria: 
+        - "Conhece e instrui as pessoas da empresa sobre os valores da companhia"
+        - "Demonstra capacidade e compartilha conhecimento e especialização pessoal com os colegas"
+        - "Continua a desenvolver conhecimento na área de especialidade."
+        - "Demonstra confiança ao explicar e justificar suas próprias decisões aos outros membros da equipe."
+        - "Constrói confiança nos membros da equipe ao demonstrar dependência e fiabilidade."
+        - "Bom nível de conhecimento e uso da língua portuguesa. Comete poucos erros de gramática e concordância."
+    - level: 3
+      criteria: 
+        - "Aplica especialização pessoal profunda para melhorar o desempenho ou solucionar questões entre os colaboradores."
+        - "Entende tendências e processos de sua área e especialidade e é capaz de inerpretá-las para torná-las efetivas na organização."
+        - "Serve como exemplo, demonstrando consistência em príncípios, práticas e comportamentos, exemplificando os próprios valores e os da organização em todas as interações."
+        - "Pratica fala convidativa, comportamento colaborativo e escuta ativa"
+        - "Trabalha e cria programas em prol de tornar os valores culturais da organização vivos tanto nas novas pessoas contratadas quanto nas demais pessoas da organização"
+        - "Ótimo nível de conhecimento e uso da língua portuguesa. Comete raros erros de gramática e concordância."
+        - "Admite abertamente contratempos ou erros e comunica os possíveis cursos de ações corretiva."
+        - "Mantém bom relacionamento e contato com as áreas e lideranças"
+        - "Reconhece não ter todas as respostas, integra a contribuição de outros para questões que são ambíguas ou não estão sob controle."
+        - "Conhece, instrui as pessoas e demonstra os valores em suas ações."
+    - level: 4
+      criteria: 
+        - "Conhece, dissemina e pratica os valores em suas ações, além de ser exemplo dos mesmos"
+        - "Demonstra conhecimento aprofundado em sua especialidade e no negócio, gera a confiança dos colaboradores e pares."
+        - "Defende o que acredita ser o melhor e se esforça para garantir que as práticas e comportamentos da equipe estão alinhados com os valores da organização."
+        - "Ótimo nível de conhecimento e uso da língua portuguesa. Comete raros erros de gramática e concordância."
+        - "Pratica fala convidativa, comportamento colaborativo e escuta ativa"
+        - "Contrói relacionamento e forma parcerias com especialistas internos e externos além de comunidades para manter-se à frente das tendências, ideias e inovações de sua especialidades."
+    - level: 5
+      criteria: 
+        - "Conhece, dissemina e pratica os valores em suas ações, além de ser exemplo dos valores"
+        - "Aplica especialização profunda de negócio e serve como um recurso crível em sua área de especialização."
+        - "Promove a confiança estabelecendo uma cultura de honestidade."
+        - "Serve como exemplo, demonstrando consistencia em príncípios, práticas e comportamentos, exemplificando os próprios valores e os da organização em todas as interações."
+        - "Cria e apoia uma cultura de abertura onde as pessoas podem admitir não ter todas as respostas."
+    - level: 6
+      criteria: 
+        - "Conhece, dissemina e pratica os valores em suas ações, além de ser exemplo dos valores"
+        - "Aplica o conhecimento sobre a amplitude de negócios."
+        - "Transmite uma reputação pessoal de honestidade e confiabilidade que influencia a percepção dos funcionários e do público da marca."
+        - "Cria sistemas e processos por toda a organização que refletem o compromisso pessoal com os princípios e valores, recompensando e reconhecendo o     comportamento confiável e consistente de outros."
+        - "Lidera a organização em momentos de incerteza ou em direção a resultados desconhecidos, criando uma atmosfera de apoio."
   - name: "Conhecimento do negócio"
     title: "Conhecimento do negócio"
     content:
