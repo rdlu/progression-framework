@@ -2,7 +2,7 @@
 path: "/people-culture/people-culture"
 title: "😁 People & Culture"
 sidebarTitle: "😁 People & Culture"
-sidebarGroup: "people-culture"
+sidebarGroup: "people & culture"
 yaml: true
 levels: 6
 homepage: true
