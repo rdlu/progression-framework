@@ -1,7 +1,7 @@
 ---
 path: "/marketing/copywriting"
-title: "🤓 Copywriting"
-sidebarTitle: "🤓 Copywriting"
+title: "✍️ Copywriting"
+sidebarTitle: "✍️ Copywriting"
 sidebarGroup: "marketing"
 yaml: true
 levels: 6
