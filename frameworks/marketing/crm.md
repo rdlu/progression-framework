@@ -1,7 +1,7 @@
 ---
 path: "/marketing/crm"
-title: "🧑‍🤝‍🧑 CRM"
-sidebarTitle: "🧑‍🤝‍🧑 CRM"
+title: "🧑 CRM"
+sidebarTitle: "🧑 CRM"
 sidebarGroup: "marketing"
 yaml: true
 levels: 6
