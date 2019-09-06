@@ -1,7 +1,7 @@
 ---
-path: "/data-analysis"
-title: "🤓 Data Analysis"
-sidebarTitle: "🤓 Data Analysis"
+path: "/data-analytics"
+title: "🤓 Data Analytics"
+sidebarTitle: "🤓 Data Analytics"
 sidebarGroup:
 yaml: true
 levels: 6
