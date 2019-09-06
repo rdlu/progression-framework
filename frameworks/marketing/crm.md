@@ -17,7 +17,7 @@ topics:
         - "Aprende com os erros, tanto aqueles que comete quanto os alheios."
         - "Busca qualidade em suas execuções, alinhando com gestor as limitações de tempo e budget."
         - "Pede ajuda quando precisa."
-        - "Troca informações de forma direta e clara dentro do escopo de trabalho.
+        - "Troca informações de forma direta e clara dentro do escopo de trabalho."
         - "Faz perguntas de esclarecimento apropriadas relacionadas ao próprio trabalho durante as comunicações com outros."
     - level: 2
       criteria: 
@@ -29,7 +29,7 @@ topics:
         - "Busca ativamente o crescimento de seu canal/projeto de atuação e é responsavel pelo resultado do memso."
         - "Sabe organizar suas atividades e tarefas no tempo"
         - "Documenta os processos e atividades relativas a seu canal/projeto (segundo orientação de mentor)"
-        - "Entrega mensagens claras, articuladas e concisas aos membros da equipe e de outros squads.
+        - "Entrega mensagens claras, articuladas e concisas aos membros da equipe e de outros squads."
         - "Trata de mal-entendidos ou questões que exijam esclarecimento ao falar com os outros ao reafirmar as informações muito diferentes."
     - level: 3
       criteria: 
