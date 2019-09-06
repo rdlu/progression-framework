@@ -1,5 +1,5 @@
 ---
-path: "/marketing/crm"
+path: "/marketing/data-marketing"
 title: "🤓 Data Marketing"
 sidebarTitle: "🤓 Data Marketing"
 sidebarGroup: "marketing"
