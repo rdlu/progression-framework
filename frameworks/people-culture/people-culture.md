@@ -157,11 +157,3 @@ Your manager will work with you on this. None of it will happen mysteriously beh
 This is only the first version of our framework and we really want your feedback.
 
 We're particularly keen to add as many examples to the behaviours as possible, to further clarify them.
-
-### Papel de um Product Designer no GetNinjas
-
-- Compreensão do problema, a nível de dados qualitativos, quantitativos, e de negócio
-- Dinâmicas de ideação e criação (individuais e coletivas)
-- Tangibilização das soluções (em diferentes níveis: Fluxograma / Rabisco-frame / Desenho de telas / Protótipo / Handoff Final
-- Democratização da solução a fim que todos do squad tenham acesso, compreendam e contribuam para o resultado final
-- Manter-se dentro dos princípios de design do GetNinjas
