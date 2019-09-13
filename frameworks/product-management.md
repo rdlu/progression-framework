@@ -61,7 +61,7 @@ topics:
         - "Tem o conhecimento da receita, margens e custos associados ao mercado em que seu produto está inserido"
     - level: 3
       criteria:
-        - "Conhece bem as oportunidades e deafios do mercado em que atua"
+        - "Conhece bem as oportunidades e desafios do mercado em que atua"
         - "Conhece seus competidores, os seus modelos de negócio e utiliza eles como benchmarks"
         - "Entende o cenário de seu produto nos mercados em que está presente, para tomar melhores deciões de acordo com o contexto"
         - "Conhece diferentes modelos de monetização aplicáveis ao seu negócio"
