@@ -1,8 +1,8 @@
 ---
-path: "/people-culture/people-culture"
-title: "😁 People & Culture"
-sidebarTitle: "😁 People & Culture"
-sidebarGroup: "people & culture"
+path: "/people-culture"
+title: "🤩 People & Culture"
+sidebarTitle: "🤩 People & Culture"
+sidebarGroup:
 yaml: true
 levels: 6
 homepage: true
