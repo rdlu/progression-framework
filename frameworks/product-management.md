@@ -538,7 +538,7 @@ topics:
         - "Traz visibilidade do trabalho que está sendo feito e negocia as demandas externas ao time com a ajuda dos pares e do líder"
     - level: 3
       criteria:
-        - "Comunica constatemente a estratégia e próximos passos do time para os stakeholders relevantes"
+        - "Comunica constantemente a estratégia e próximos passos do time para os stakeholders relevantes"
         - "Envolve stakeholders nas decisões mais estratégicas/sensíveis para coletar feedbacks antes de avançar"
         - "Tem uma relação de confiança e respeito com os stakeholders"
         - "Traz visibilidade do trabalho que está sendo feito e negocia as demandas externas ao time"
@@ -615,69 +615,40 @@ topics:
         - "Em geral consegue articular diferentes interesses"
         - "Exerce liderança informal em seu time contribuindo na tomada de decisão"
         - "Busca motivar as pessoas ao seu redor na forma de agir e comunicar"
-        - "Reforça os nossos valores constantemente na empresa, e em seu time, proporcionando um ambiente produtivo e de entrega consistente"
+        - "Reforça os nossos valores constantemente na empresa e em seu time, proporcionando um ambiente produtivo e de entrega consistente"
     - level: 3
       criteria:
         - "É visto como ótimo articulador de diferentes interesses"
         - "Exerce liderança informal, sendo considerado necessário por seu time na tomada de decisão"
         - "Inspira as pessoas ao seu redor na forma de agir e comunicar"
-        - "Reforça os nossos valores constantemente na empresa, e em seu time, proporcionando um ambiente produtivo e de entrega consistente"
+        - "Reforça os nossos valores constantemente na empresa e em seu time, proporcionando um ambiente produtivo e de entrega consistente"
     - level: 4
       criteria:
         - "É referência na empresa como excelente articulador de diferentes interesses"
         - "Exerce liderança informal, sendo considerado muito necessário por seu time na tomada de decisão"
         - "Inspira as pessoas ao seu redor na forma de agir e comunicar"
-        - "Reforça os nossos valores constantemente na empresa, e em seu time, proporcionando um ambiente produtivo e de entrega consistente"
+        - "Reforça os nossos valores constantemente na empresa e em seu time, proporcionando um ambiente produtivo e de entrega consistente"
     - level: 5
       criteria:
         - "É referência na empresa como excelente articulador de diferentes interesses"
         - "Exerce liderança informal, sendo visto como ponto focal de seu time na tomada de decisão"
         - "Inspira as pessoas ao seu redor na forma de agir e comunicar, fazendo-o de forma excelente"
-        - "Reforça os nossos valores constantemente na empresa, e em seu time, proporcionando um ambiente produtivo e de entrega consistente"
+        - "Reforça os nossos valores constantemente na empresa e em seu time, proporcionando um ambiente produtivo e de entrega consistente"
         - "Naturalmente é procurado em assuntos que envolvam liderança"
     - level: 6
       criteria:
         - "É referência na empresa como excelente articulador de diferentes interesses"
         - "Exerce liderança informal, sendo visto como ponto focal de seu time na tomada de decisão"
         - "Inspira as pessoas ao seu redor na forma de agir e comunicar, fazendo-o de forma excelente"
-        - "Reforça os nossos valores constantemente na empresa, e em seu time, proporcionando um ambiente produtivo e de entrega consistente"
+        - "Reforça os nossos valores constantemente na empresa e em seu time, proporcionando um ambiente produtivo e de entrega consistente"
         - "Naturalmente é procurado em assuntos que envolvam liderança"
         - "É plenamente capaz de mentorar outros PMs"
         - "Colabora ativamente na construção de times de produto e em sua retenção"
         - "Planeja e reestrutura os times de produto visando melhores resultados"
         - "Remove impedimentos gerais do time: budget, contratações, ferramentas, etc."
 ---
-### About our product progression frameworks
-The product progression framework is a tool that helps Product Managers and leaders:
-- make development and career plans
-- talk about what we’re looking for from Product Managers in a consistent way
-- set a fair level of compensation.
-
-The framework is a compass, not a GPS.
-
-It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
-
-### How does it work?
-The framework covers all the things we’re looking for from Product Managers. This work is based on Marty Cagan's [excellent article on assessment of PMs](https://svpg.com/coaching-tools-the-assessment/). We're structuring the assessment in three major components:
-- Product
-- Process
-- People
-
-We sort them into six levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it. Basically, the more behaviours you show from your level, the more you’ll progress.
-
-Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
-
-### Things to keep in mind
-- There are many different ways to progress and be valuable to GetNinjas as you grow, including deep technical knowledge and ability and people management. All are equally valuable paths in GetNinjas' product team.
-- The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
-- Product Management progression isn’t an exact science and there will always be some ambiguity.
-- This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.
-- There will be levels on top (eg ‘Inventor of the iPhone’), but we won’t add them until we need them.
-
-### Give us your feedback!
-This is only the first version of our framework and we really want your feedback.
-
-We're particularly keen to add as many examples to the behaviours as possible, to further clarify them.
+### Como funciona?
+Clique nos níveis acima ("Levels") para ver as competências e os exemplos de comportamentos esperados de PMs em cada nível.
 
 ### Papel de um Product Manager no GetNinjas
 
@@ -688,3 +659,33 @@ We're particularly keen to add as many examples to the behaviours as possible, t
 - Definir e priorizar o backlog de histórias/iniciativas
 - Balancear objetivos de negócio, usuário e tecnologia na priorização
 - Informar outras áreas e stakeholders sobre os resultados e aprendizados alcançados
+
+### Sobre nosso framework de progressão para Product Managers
+O framework de progressão é uma ferramenta que ajuda os PMs e líderes de produto a:
+- elaborar planos de desenvolvimento e carreira
+- alinhar as expectativas sobre o trabalho dos PMs de maneira consistente
+- estabelecer um nível justo de remuneração
+
+O framework é uma bússola, não um GPS. É para ser útil, sem o objetivo de ser um sistema de classificação de humanos, livre de casos extremos.
+
+### Como esse framework foi criado?
+O framework abrange tudo o que procuramos dos Product Managers. Este trabalho é baseado no [excelente artigo sobre avaliação de PMs] do Marty Cagan (https://svpg.com/coaching-tools-the-assessment/). Estamos estruturando a avaliação em três componentes principais:
+- Produto
+- Processo
+- Pessoas
+
+Criamos seis níveis e tentamos dar exemplos específicos de comportamentos que esperamos para cada um. Cada um desses níveis terá uma faixa salarial bastante ampla associada a ele. Basicamente, quanto mais comportamentos você mostrar em seu nível, mais você progredirá.
+
+Seu líder trabalhará com você nisso. Nada disso acontecerá misteriosamente a portas fechadas. Você concorda com o nível de progressão e com o que precisa melhorar com seu líder. Deve ficar claro como você está em relação a este framwork o tempo todo.
+
+### Coisas para manter em mente
+- Existem muitas maneiras diferentes de progredir e gerar valor para o GetNinjas, incluindo conhecimento técnico profundo e habilidade de liderança de pessoas. Todos são caminhos igualmente valiosos para o time de Produto.
+- O framework representa a progressão de longo prazo na carreira. As pessoas não devem esperar subir para o último nível em 18 meses!
+- O framework para PMs não é uma ciência exata e sempre haverá alguma subjetividade.
+- Este não é um checklist - é possível avançar um nível acima sem necessariamente mostrar todos os comportamentos nesse nível.
+- Haverá níveis no topo (por exemplo, "Inventor do iPhone"), mas não os adicionaremos até precisarmos deles.
+
+### Queremos o seu feedback!
+Esta é apenas a primeira versão do nosso framework e nós realmente queremos seus feedbacks.
+
+Estamos particularmente interessados ​​em adicionar o maior número possível de exemplos às competências, para dar o máximo de clareza possível.

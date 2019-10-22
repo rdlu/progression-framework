@@ -2,7 +2,11 @@
 # Each line is a file pattern followed by one or more owners.
 
 # These are owners for a specific framework area
-frameworks/engineering/*        @eduardojmatos
+frameworks/engineering/*            @eduardojmatos
+frameworks/marketing/*              @bernardosrulzon
+frameworks/design/*                 @bernardosrulzon
 
 # These are owners for a specific framework file
 frameworks/product-management.md    @bernardosrulzon
+frameworks/data-analytics.md        @vmjulio
+frameworks/user-research.md         @isabelalima
