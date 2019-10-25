@@ -8,7 +8,7 @@ levels: 6
 homepage: true
 topics:
   - name: "priorize-simplifique"
-    title: "💥 Priorize e Simplifiquee"
+    title: "💥 Priorize e Simplifique"
     content:
       - level: 1
         criteria:
@@ -40,7 +40,7 @@ topics:
           - Prioriza e equilibra os projetos considerando se é de curto, médio e longo prazo
           - Expressa opinião sobre as prioridades e colabora com os outros líderes sênior para determinar a importância das questões levantadas na organização.
   - name: "ideias"
-    title: "🧠 Ideias valem mais do que cargos"
+    title: "🧠 Ideias valem mais que cargos"
     content:
       - level: 1
         criteria:
@@ -73,7 +73,7 @@ topics:
           - Incentiva os outros a experimentar e aprender com o erro
           - Busca oportunidades e áreas de negócio onde soluções criativas ajudarão a melhorar a produtividade
   - name: "historias"
-    title: "💬 Um milhão de Histórias"
+    title: "💬 Um milhão de histórias"
     content:
       - level: 1
         criteria:
