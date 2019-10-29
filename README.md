@@ -1,15 +1,8 @@
-<p align="center">
-  <a href="https://www.monzo.com">
-    <img alt="GetNinjas favicon" src="https://user-images.githubusercontent.com/6955526/62547358-76f72380-b83b-11e9-8e44-c0c8d7425535.png" width="300" />
-  </a>
-</p>
-<h1 align="center">
-    Progression at GetNinjas
-</h1>
+# Progression at Qconcursos.com (For Data Analytics & Science teams)
 
-🎉 Welcome to the Progression at GetNinjas repository
+🎉 Welcome to the Progression at Qconcursos.com repository
 
-This is where all of GetNinjas' progression frameworks live, as well as the site that powers `progressao.getninjas.com.br` 💪
+This is where all of QCLovers' progression frameworks live, as well as the site that powers `progressao.ds.qcx.com.br` 💪
 
 **Get stuck? There's a glossary at the bottom of this readme!**
 
@@ -23,7 +16,7 @@ We mainly use GitHub in Engineering, as it allows engineers to review each other
 
 We're using GitHub to store our progression frameworks for a few reasons:
 - It's public (or open source), meaning we can share this with the community and allow them to contribute!
-- Ninjas can "own" or manage a framework (or frameworks), meaning they get to control any changes or additions in that area
+- Anyone inside our company can "own" or manage a framework (or frameworks), meaning they get to control any changes or additions in that area
 - It means we can build a super fast site 🚀
 
 ## ❔ How does this work?
