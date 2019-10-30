@@ -84,7 +84,7 @@ topics:
         criteria:
           - "Follows policies and procedures applicable to role. Completes training."
           - "Accepts feedback graciously and acts on it. Gives feedback when requested"
-          - "Builds relationships within monzo and contributes to building a supportive, knowledgable and engaged peer group"
+          - "Builds relationships within Qconcursos.com and contributes to building a supportive, knowledgable and engaged peer group"
         exampleCriteria:
           -  criteria: "A criteria with an example point goes here"
              examples:
