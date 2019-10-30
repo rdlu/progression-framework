@@ -1,6 +1,7 @@
 module.exports = {
+  pathPrefix: `/progression-framework`,
   siteMetadata: {
-    title: 'Monzo Progression',
+    title: 'Qconcursos.com Progression',
   },
   plugins: [
     `gatsby-plugin-styled-components`,
