@@ -25,12 +25,12 @@ export default class Index extends React.Component<Props> {
         <DescriptionView>
           <DescriptionTitleGroup>
             <Subtitle>Boas-vindas a</Subtitle>
-            <Title>Progressão no GetNinjas 🎉</Title>
+            <Title>Progressão no Qconcursos.com 🎉</Title>
           </DescriptionTitleGroup>
           <Description>
             <DescriptionText>
               Aqui é onde mantemos nossos frameworks de progressão usados no
-              GetNinjas.
+              Qconcursos.com.
             </DescriptionText>
             <DescriptionText>
               Frameworks de Progressão são ferramentas que nos ajudam a avaliar
@@ -53,9 +53,9 @@ export default class Index extends React.Component<Props> {
             </DescriptionText>
             <DescriptionText>
               Pra ficar a par, vá para{' '}
-              <a href="https://github.com/getninjas/progression-framework">
+              <a href="https://github.com/qcx/progression-framework">
                 <FontAwesomeIcon icon={faGithub} />{' '}
-                @getninjas/progression-framework.
+                @Qconcursos.com/progression-framework.
               </a>
             </DescriptionText>
             <DescriptionText>
