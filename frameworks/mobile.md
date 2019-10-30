@@ -1,7 +1,7 @@
 ---
-path: "/engineering/front-end"
-title: "👩‍💻 Front-end Engineering Framework"
-sidebarTitle: "👩‍💻 Front-end"
+path: "/mobile"
+title: "👩‍🎨 Mobile Engineering Framework"
+sidebarTitle: "👩‍🎨 Mobile"
 sidebarGroup: "engineering"
 yaml: true
 levels: 5
@@ -37,6 +37,16 @@ topics:
           - "Dissemina conhecimento entre os times sobre novos padrões e tipos de testes"
           - "Faz análises de coverage de código, traz novas ferramentas de testes e ensina os times como usá-las"
           - "Domina o processo de testes automatizados sejam eles num CI ou localmente. Propõe novas estruturas de testes diferentes das que usamos"
+      - level: 6
+        criteria:
+          - "É referência em testes na empresa e toma a frente de problemas multi-times relacionados a testes"
+          - "Puxa discussões sobre qualidade nos testes, liderando iniciativas de aplicação de novas ferramentas de coverage"
+          - "Lidera movimentação de novas tecnologias de testes e ajuda a construi-las, sendo responsável por mantê-las"
+      - level: 7
+        criteria:
+          - "Cria novos padrões de testes, usando conhecimento da comunidade e discute novas tecnologias de teste na empresa ou fora dela"
+          - "Cria novas tecnologias de coverage ou utiliza um combinado delas pra resolver problemas de testes"
+          - "Lidera quaisquer discussões sobre teste e é referência quando alguém precisa de ajuda em problemas de alto nível de testes"
   - name: "programacao"
     title: "💻 Programação e Linguagens"
     content:
@@ -174,28 +184,28 @@ topics:
           - "Não sabe a finalidade, restrições, estrutura ou relacionamentos dos sistemas que trabalha"
       - level: 2
         criteria:
-          - "Não conhece nenhum paradigma de arquitetura"
-          - "Nunca lidou com projetos que envolvia um planejamento de arquitetura"
-          - "Não sabe a finalidade, restrições, estrutura ou relacionamentos dos sistemas que trabalha"
-      - level: 3
-        criteria:
           - "Sabe um ou outro conceito de arquitetura, como padrões de comunicação"
           - "Participa de definições iniciais de novos sistemas ou de antigos e sabe dialogar sobre o assunto num nível considerável"
           - "Sabe explicar estrutura e relacionamentos dos sistemas que trabalha"
-      - level: 4
+      - level: 3
         criteria:
           - "Usa conceitos de arquitetura pra resolver problemas de produto ou inter-sistemas"
           - "Ajuda a definir estrutura de novos sistemas e sabe quando usar algum conceito de arquitetura nas discussões"
           - "Aplica e modifica estruturas de sistemas, tanto na comunicação, no código ou em seus componentes"
-      - level: 5
+      - level: 4
         criteria:
           - "É a pessoa que conhece conceitos de arquitetura e toma a frente no uso desses conceitos em decisões técnicas"
           - "Define novas estruturas de sistemas apresentando propostas de melhorias nas nossas arquiteturas"
           - "Cria sistemas que revolucionam conceitos de comunicação, comportamento e organização nossas"
+      - level: 5
+        criteria:
+          - "Ensina e dissemina conhecimento sobre arquitetura dos nossos sistemas para as pessoas novas no time"
+          - "É sempre procurado pra definição de novas estruturas de sistemas ou discussões sobre novas formas de comunicação entre os mesmos"
+          - "É a referência de arquitetura do time, sendo a pessoa que ajuda a decidir e criar novos sistemas ou conceitos de arquitetura"
 ---
 
 ### Sobre nosso framework de progressão de engenharia
-O framework de progressão de engenharia no GetNinjas é uma ferrementa que ajuda pessoas engenheiras e de gestão a:
+O framework de progressão de engenharia no Qconcursos.com é uma ferrementa que ajuda pessoas engenheiras e de gestão a:
 - fazer desenvolvimento e plano de carreira;
 - conversar sobre o que nós buscamos das pessoas de engenharia num caminho consistente;
 - ter um nível justo de compensação financeira.
@@ -206,7 +216,7 @@ Isso significa ser um auxiliar. Não significa que é um sistema de avaliação 
 
 
 ### Como funciona?
-O framework cobre todas as coisas que nós buscamos em pessoas de engenharia no GetNinjas. Colocamos nosso interesse em esse número de competências técnicas:
+O framework cobre todas as coisas que nós buscamos em pessoas de engenharia no Qconcursos.com. Colocamos nosso interesse em esse número de competências técnicas:
 
 - Troubleshooting;
 - Testes e Ferramentas de Teste;
@@ -219,9 +229,8 @@ Nós organizamos em 5 níveis, e tentamos dar exemplos específicos de comportam
 
 A pessoa que é líder irá trabalhar nisso com você. Nada disso irá acontecer misteriosamente por trás dos panos. Você i'ra concordar em qual nível de progressão você está indo e o que precisa pra melhorar junto com quem é líder seu(sua). Deve ser claro como você está fazendo algo relativo com o nível, todas as vezes que falarem sobre.
 
-
 ### Coisas pra ter em mente
-- Há muitas formas de progredir e ser avaliado no GetNinjas enquanto você vai crescendo, incluindo conhecimento técnico profundo e habilidade, liderança técnica e gestão de pessoas. Todos são avaliados de forma igual no nosso time;
+- Há muitas formas de progredir e ser avaliado no Qconcursos.com enquanto você vai crescendo, incluindo conhecimento técnico profundo e habilidade, liderança técnica e gestão de pessoas. Todos são avaliados de forma igual no nosso time;
 - O framework representa o valor de progressão de um carreira, as pessoas não deveriam experar um super vôo em 18 meses!
  - Progressão de engenharia não é uma ciência exata e sempre será um pouco ambígua
 

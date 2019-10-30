@@ -1,5 +1,5 @@
 ---
-path: "/engineering/back-end"
+path: "/back-end"
 title: "👩‍🏭 Back-end Engineering Framework"
 sidebarTitle: "👩‍🏭 Back-end"
 sidebarGroup: "engineering"
@@ -194,7 +194,7 @@ topics:
 ---
 
 ### Sobre nosso framework de progressão de engenharia
-O framework de progressão de engenharia no GetNinjas é uma ferrementa que ajuda pessoas engenheiras e de gestão a:
+O framework de progressão de engenharia no Qconcursos.com é uma ferrementa que ajuda pessoas engenheiras e de gestão a:
 - fazer desenvolvimento e plano de carreira;
 - conversar sobre o que nós buscamos das pessoas de engenharia num caminho consistente;
 - ter um nível justo de compensação financeira.
@@ -205,7 +205,7 @@ Isso significa ser um auxiliar. Não significa que é um sistema de avaliação 
 
 
 ### Como funciona?
-O framework cobre todas as coisas que nós buscamos em pessoas de engenharia no GetNinjas. Colocamos nosso interesse em esse número de competências técnicas:
+O framework cobre todas as coisas que nós buscamos em pessoas de engenharia no Qconcursos.com. Colocamos nosso interesse em esse número de competências técnicas:
 
 - Troubleshooting;
 - Testes e Ferramentas de Teste;
@@ -220,7 +220,7 @@ A pessoa que é líder irá trabalhar nisso com você. Nada disso irá acontecer
 
 
 ### Coisas pra ter em mente
-- Há muitas formas de progredir e ser avaliado no GetNinjas enquanto você vai crescendo, incluindo conhecimento técnico profundo e habilidade, liderança técnica e gestão de pessoas. Todos são avaliados de forma igual no nosso time;
+- Há muitas formas de progredir e ser avaliado no Qconcursos.com enquanto você vai crescendo, incluindo conhecimento técnico profundo e habilidade, liderança técnica e gestão de pessoas. Todos são avaliados de forma igual no nosso time;
 - O framework representa o valor de progressão de um carreira, as pessoas não deveriam experar um super vôo em 18 meses!
  - Progressão de engenharia não é uma ciência exata e sempre será um pouco ambígua
 

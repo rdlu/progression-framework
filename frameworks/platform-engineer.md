@@ -1,7 +1,7 @@
 ---
-path: "/engineering/mobile"
-title: "👩‍🎨 Mobile Engineering Framework"
-sidebarTitle: "👩‍🎨 Mobile"
+path: "/platform-engineer"
+title: "👩‍🔧 Platform Engineer Engineering Framework"
+sidebarTitle: "👩‍🔧 Platform Engineer"
 sidebarGroup: "engineering"
 yaml: true
 levels: 5
@@ -80,6 +80,19 @@ topics:
           - "Lidera resolução de problemas usando linguagens como fator decisivo em melhorias"
           - "Consegue explicar e justificar o uso de novos paradigmas pra qualquer pessoa do time, mostrando as vantagens e desvantagens do uso de tais paradigmas para resolução de problemas nossos"
           - "É a referência do time nas discussões sobre diferentes linguagens de programação e as boas práticas de cada uma"
+      - level: 6
+        criteria:
+          - "Ensina novas linguagens para o time"
+          - "É sempre consultado(a) com relação a linguagens que trabalha, sendo referência pro time"
+          - "Dissemina conhecimento relacionado a algoritmos e seus usos no dia-a-dia"
+          - "É a referência do time em algum paradigma de programação, diferente ou não dos que usamos"
+          - "Cria novos padrões de qualidade e é sempre consultado(a) quando pensam nesse tema, de acordo com as linguagens que trabalha"
+      - level: 7
+        criteria:
+          - "É a referência para empresa na adoção de linguagens ou paradigmas, além de ser referência externa também"
+          - "É consultado(a) quando precisa-se tomar uma decisão sobre uma nova linguagem que algum time queira usar"
+          - "Referência interna e externa quando o assunto é padrões e qualidade de código"
+          - "Participa ativamente no desenvolvimento de alguma linguagem open-source"
   - name: "troubleshooting"
     title: "🐛 Troubleshooting"
     content:
@@ -108,6 +121,16 @@ topics:
           - "Lidera iniciativas para melhorias de ferramentas de debugging"
           - "Resolve bugs muito específicos, intrínsecos das linguagens e ferramentas que trabalha"
           - "Consegue criar ou trazer novas técnicas de descoberta de erros, através de métricas ou de ferramentas específicas"
+      - level: 6
+        criteria:
+          - "Domina ferramentas e técnicas de debugging e é referência nesse assunto"
+          - "Sabe como resolver bugs críticos e consegue ensinar formas de descobrir alguns erros mais complexos da nossa arquitetura"
+          - "Cria métricas e alertas novos, usando nossa estrutura atual ou sugere alternativas de acompanhamento"
+      - level: 7
+        criteria:
+          - "Tenta aplicar técnicas de debugging ou novas ferramentas pra melhorar esse quesito no seu workflow de trabalho"
+          - "Toma a frente nos bugs, tenta resolve-los e prioriza-los dentro do processo de trabalho do time"
+          - "Sugere novas métricas para o time e tenta promover uma cultura de acompanhamento"
   - name: "infraestrutura"
     title: "⚙️  Infraestrutura"
     content:
@@ -120,32 +143,43 @@ topics:
           - "Não tem conhecimento sobre a metodologia 12-Factor App"
       - level: 2
         criteria:
-          - "Não tem nenhum conceito sobre serviços"
-          - "Não sabe como subir uma aplicação em um ambiente de cloud"
-          - "Não conhece ferramentas de automação de infraestrutura ou cloud"
-          - "Não conhece e nem utiliza o conceito em container nas aplicações que trabalha"
-          - "Não tem conhecimento sobre a metodologia 12-Factor App"
+          - "Tem conhecimento básico de alguns serviços unix (ex: df, ps, kill, cat, tail, head)"
+          - "Sabe como funciona o processo de deploy de uma aplicação"
+          - "Usa, de forma simples, algumas ferramentas de automação de infraestrutura, como terraform entre outras"
+          - "Conhece e utiliza o conceito em containers nas aplicações que trabalha"
+          - "Conhece a metodologia 12-Factor App"
       - level: 3
-        criteria:
-          - "Tem conhecimento básico de alguns serviços unix (ex: df, ps, kill, cat, tail, head)"
-          - "Sabe como funciona o processo de deploy de uma aplicação"
-          - "Usa, de forma simples, algumas ferramentas de automação de infraestrutura, como terraform entre outras"
-          - "Conhece e utiliza o conceito em containers nas aplicações que trabalha"
-          - "Conhece a metodologia 12-Factor App"
-      - level: 4
-        criteria:
-          - "Tem conhecimento básico de alguns serviços unix (ex: df, ps, kill, cat, tail, head)"
-          - "Sabe como funciona o processo de deploy de uma aplicação"
-          - "Usa, de forma simples, algumas ferramentas de automação de infraestrutura, como terraform entre outras"
-          - "Conhece e utiliza o conceito em containers nas aplicações que trabalha"
-          - "Conhece a metodologia 12-Factor App"
-      - level: 5
         criteria:
           - "Sabe sugerir, configurar e fazer um troubleshooting (analisar log) de determinados serviços (ex: nginx, mysql, mongo, redis)"
           - "Sugere e aplica melhorias nos processos de deploy"
           - "Tem conhecimento suficiente pra lidar com infra-as-code"
           - "Usa containers nas aplicações que trabalha e sugere novas formas de usa-los em problemas de infra-estrutura nossos"
           - "Implementa os fatores contidos na metodologia 12-Factor App"
+      - level: 4
+        criteria:
+          - "Implementa tunning e configurações avançadas em determinados serviços que lida, como nginx, mysql, redis, etc."
+          - "Toma a frente de movimentações relacionadas aos processos de deploy, CIs e pipelines"
+          - "Sugere novas formas de lidar com f da infraestrutura"
+          - "Sabe novas formas de se trabalhar com containers usando novas tecnologias relacionadas"
+      - level: 5
+        criteria:
+          - "Sabe praticamente todos os tipos de distribuições e consegue criar novas imagens de servidores minimalistas e de alta performance"
+          - "Faz grandes mudanças nos pipelines dos sistemas da empresa com foco em melhoria no processo como um todo"
+          - "Conhece praticamente todos os tipos de métodos possíveis de se manter nossa infraestrutura replicável e de fácil manutenção"
+          - "Ensina o time novas features relacionadas a containers e promove adoção de novas tecnologias relacionadas"
+      - level: 6
+        criteria:
+          - "É sempre procurado quando algum problema do core das máquinas ocorre, dando sempre uma solução"
+          - "Lidera e faz a arquitetura de novos pipelines de deploy e de build das aplicações"
+          - "É ponto de informação a respeito de tecnologias de versionamento de infraestrutura pra todos os times"
+          - "Lidera e puxa novas iniciativas no que se refere a containers"
+      - level: 7
+        criteria:
+          - "É a referência da empresa quando se trata de Unix e serviços relacionados ao ambiente Unix"
+          - "Contribui para criação de novas ferramentas em distribuições de máquinas (Linux)"
+          - "Cria conceitos novos de mercado relacionados a pipeline de deploy"
+          - "Idealiza novas formas de mantermos nossa infraestrutura sólida, replicável e sustentável, sendo um exemplo externo no assunto"
+          - "Referência externa quando o assunto é containers"
   - name: "evolucao"
     title: "🔄 Evolução dos Sistemas"
     content:
@@ -174,6 +208,16 @@ topics:
           - "Ensina e promove uma cultura de refactor e sua importância nos times"
           - "Sabe quando é melhor extrair pra um serviço ou apenas isolar partes da aplicação"
           - "Faz melhorias cruciais em sistemas legados, promovendo a saúde constante dos mesmos"
+      - level: 6
+        criteria:
+          - "Executa refactorings e toma a frente de iniciativas de refactoring sem over engineering"
+          - "Lidera a arquitetura de extração de domínios de uma aplicação, seja em módulos ou serviços, quando necessário"
+          - "Puxa dentro do time a evolução de sistemas legados, bem como suas bibliotecas, estruturas de dados, testes e tudo relacionado aos mesmos"
+      - level: 7
+        criteria:
+          - "Cria novos conceitos de refactoring e planeja a longo prazo o uso desses conceitos"
+          - "Domina a arquitetura e cria novos padrões de extração de domínios de uma aplicação"
+          - "É a referência para a empresa, e externa, no que diz respeito a próximos passos de uma aplicação, mesmo sendo antiga"
   - name: "arquitetura"
     title: "🏗  Arquitetura"
     content:
@@ -202,10 +246,20 @@ topics:
           - "Ensina e dissemina conhecimento sobre arquitetura dos nossos sistemas para as pessoas novas no time"
           - "É sempre procurado pra definição de novas estruturas de sistemas ou discussões sobre novas formas de comunicação entre os mesmos"
           - "É a referência de arquitetura do time, sendo a pessoa que ajuda a decidir e criar novos sistemas ou conceitos de arquitetura"
+      - level: 6
+        criteria:
+          - "Lidera iniciativas e discussões sobre arquitetura, sendo referência nisso no time"
+          - "Puxa e decide com o time novas formas de arquitetura, tomando a frente nessas decisões"
+          - "Lidera a aplicação de novos conceitos de arquitetura no time e inter-times"
+      - level: 7
+        criteria:
+          - "Cria conceitos de arquitetura internos ou contribui para definição de novos conceitos de mercado"
+          - "Lidera grandes movimentações de arquitetura na empresa"
+          - "É uma referência de mercado quando se trata de arquitetura, sendo influente e reconhecido pelas comunidades de desenvolvimento (Brasil ou estrangeiras)"
 ---
 
 ### Sobre nosso framework de progressão de engenharia
-O framework de progressão de engenharia no GetNinjas é uma ferrementa que ajuda pessoas engenheiras e de gestão a:
+O framework de progressão de engenharia no Qconcursos.com é uma ferrementa que ajuda pessoas engenheiras e de gestão a:
 - fazer desenvolvimento e plano de carreira;
 - conversar sobre o que nós buscamos das pessoas de engenharia num caminho consistente;
 - ter um nível justo de compensação financeira.
@@ -216,7 +270,7 @@ Isso significa ser um auxiliar. Não significa que é um sistema de avaliação 
 
 
 ### Como funciona?
-O framework cobre todas as coisas que nós buscamos em pessoas de engenharia no GetNinjas. Colocamos nosso interesse em esse número de competências técnicas:
+O framework cobre todas as coisas que nós buscamos em pessoas de engenharia na Qconcursos.com. Colocamos nosso interesse em esse número de competências técnicas:
 
 - Troubleshooting;
 - Testes e Ferramentas de Teste;
@@ -229,8 +283,9 @@ Nós organizamos em 5 níveis, e tentamos dar exemplos específicos de comportam
 
 A pessoa que é líder irá trabalhar nisso com você. Nada disso irá acontecer misteriosamente por trás dos panos. Você i'ra concordar em qual nível de progressão você está indo e o que precisa pra melhorar junto com quem é líder seu(sua). Deve ser claro como você está fazendo algo relativo com o nível, todas as vezes que falarem sobre.
 
+
 ### Coisas pra ter em mente
-- Há muitas formas de progredir e ser avaliado no GetNinjas enquanto você vai crescendo, incluindo conhecimento técnico profundo e habilidade, liderança técnica e gestão de pessoas. Todos são avaliados de forma igual no nosso time;
+- Há muitas formas de progredir e ser avaliado no Qconcursos.com enquanto você vai crescendo, incluindo conhecimento técnico profundo e habilidade, liderança técnica e gestão de pessoas. Todos são avaliados de forma igual no nosso time;
 - O framework representa o valor de progressão de um carreira, as pessoas não deveriam experar um super vôo em 18 meses!
  - Progressão de engenharia não é uma ciência exata e sempre será um pouco ambígua
 
