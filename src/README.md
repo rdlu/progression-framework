@@ -25,3 +25,9 @@ Finally, you can build everything into a set of static files 🛠️
 ``` sh
 gatsby build
 ```
+
+# Original work
+
+The original work for this can be attributed to Lucas Johnston <lucasjohnston@monzo.com>
+
+It's based on progression framework at [Monzo](https://github.com/monzo/progression-framework/)
