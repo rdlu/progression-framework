@@ -1,35 +1,39 @@
 ---
-path: "/data-analytics"
-title: "🤓 Data Analytics"
-sidebarTitle: "🤓 Data Analytics"
+path: "/data-science-intel"
+title: "🤓 Data Warrior"
+sidebarTitle: "🤓 Data Warrior"
 sidebarGroup:
 yaml: true
 levels: 6
 homepage: true
 topics:
-  - name: "Analytics"
-    title: "Analytics"
+  - name: "Domínio técnico em dados"
+    title: "Domínio técnico em dados"
     content:
     - level: 1
       criteria: 
         - "Entendimento básico de possíveis viéses em métricas e análises"
         - "Entendimento básico de como planejar o dataset de partida para uma análise"
+        - "Entendimento básico de análise exploratória de dados (EDA)"
     - level: 2
       criteria: 
+        - "Conhecimento de análise exploratória de dados (EDA) (visualizações e análises de pré-projeto)"
         - "Entendimento básico de métricas de testes e análise de causalidade"
         - "Entendimento básico distribuições estatísticas e suas aplicações"
-        - "Entendimento básico dimensionamento de testes"
         - "Conhecimento de data profiling, e agregações estatísticas relevantes pro problema"
         - "Conhecimento de como planejar o dataset de partida para uma análise"
+        - "Entendimento básico de séries temporais e para que servem"
     - level: 3
       criteria: 
-        - "Domínio de como planejar o dataset de partida para uma análise"
+        - "Entendimento básico dimensionamento de testes"
         - "Conhecimento de métricas de testes e análise de causalidade"
         - "Conhecimento de distribuições estatísticas e suas aplicações"
         - "Conhecimento de dimensionamento de testes"
         - "Entendimento básico de abordagem Bayesiana"
+        - "Conhecimento de séries temporais e aplicações práticas"
     - level: 4
       criteria: 
+        - "Domínio de como planejar o dataset de partida para uma análise"
         - "Domínio de acompanhamento de métricas dos times e ações"
         - "Domínio de testes de hipótese, intervalos de confiança, e distribuições estatísticas"
     - level: 5
@@ -44,13 +48,14 @@ topics:
         - "Domínio de análises exploratórias em geral"
         - "Domínio de análises confirmatórias em geral"
         - "Domínio de aplicação de estatísticas coerentes"
-  - name: "Business & Produto"
-    title: "Business & Produto"
+  - name: "Domínio de produtos de dados"
+    title: "Domínio de produtos de dados"
     content:
     - level: 1
       criteria: 
         - "Entendimento básico de quais são as métricas de negócios importantes para a empresa"
         - "Entendimento básico de priorização do tempo, e da forma mais rápida de entregar valor"
+        - "Entendimento básico do processo de um produto de dados (da coleta de requisitos até entrega para o usuário)"
     - level: 2
       criteria: 
         - "Entendimento básico de metodologias ágeis"
@@ -111,8 +116,8 @@ topics:
         - "Domínio de comunicação efetiva como um todo"
         - "É um agente de mudanças no contexto do time e empresa"
         - "É didático, dá feedbacks claros e tem visão crítica da empresa"
-  - name: "Conhecimento de domínio (DA)"
-    title: "Conhecimento de domínio (DA)"
+  - name: "Domínio tecnológico em dados"
+    title: "Domínio tecnológico em dados"
     content:
     - level: 1
       criteria: 
