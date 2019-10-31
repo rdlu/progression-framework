@@ -17,10 +17,9 @@ topics:
         - "Entendimento básico de análise exploratória de dados (EDA)"
     - level: 2
       criteria: 
-        - "Conhecimento de análise exploratória de dados (EDA) (visualizações e análises de pré-projeto)"
+        - "Conhecimento de análise exploratória de dados (EDA) (visualizações e análises iniciais de demandas)"
         - "Entendimento básico de métricas de testes e análise de causalidade"
         - "Entendimento básico distribuições estatísticas e suas aplicações"
-        - "Conhecimento de data profiling, e agregações estatísticas relevantes pro problema"
         - "Conhecimento de como planejar o dataset de partida para uma análise"
         - "Entendimento básico de séries temporais e para que servem"
     - level: 3
@@ -28,11 +27,11 @@ topics:
         - "Entendimento básico dimensionamento de testes"
         - "Conhecimento de métricas de testes e análise de causalidade"
         - "Conhecimento de distribuições estatísticas e suas aplicações"
-        - "Conhecimento de dimensionamento de testes"
         - "Entendimento básico de abordagem Bayesiana"
         - "Conhecimento de séries temporais e aplicações práticas"
     - level: 4
       criteria: 
+        - "Conhecimento de dimensionamento de testes"
         - "Domínio de como planejar o dataset de partida para uma análise"
         - "Domínio de acompanhamento de métricas dos times e ações"
         - "Domínio de testes de hipótese, intervalos de confiança, e distribuições estatísticas"
@@ -40,12 +39,11 @@ topics:
       criteria: 
         - "Conhecimento de abordagem Bayesiana"
         - "Domínio de visualização dos dados"
+        - "Domínio de análises exploratórias (EDA) em geral"
         - "Domínio de identificação de vieses e explicações concorrentes"
         - "Domínio de dimensionamento de parâmetros para testes"
     - level: 6
       criteria: 
-        - "Domínio de assessment de resultados em geral"
-        - "Domínio de análises exploratórias em geral"
         - "Domínio de análises confirmatórias em geral"
         - "Domínio de aplicação de estatísticas coerentes"
   - name: "Domínio de produtos de dados"
@@ -55,10 +53,12 @@ topics:
       criteria: 
         - "Entendimento básico de quais são as métricas de negócios importantes para a empresa"
         - "Entendimento básico de priorização do tempo, e da forma mais rápida de entregar valor"
-        - "Entendimento básico do processo de um produto de dados (da coleta de requisitos até entrega para o usuário)"
+        - "Entendimento básico do processo de um produto de dados (da coleta de requisitos, documentação até entrega para o usuário)"
+        - "Entendimento básico de métricas SaaS"
     - level: 2
       criteria: 
         - "Entendimento básico de metodologias ágeis"
+        - "Entendimento básico de pesquisa e reprodutibilidade de resultados (CRISP-DM ou variações)"
         - "Entendimento básico de experimentação ágil (MVP)"
         - "Conhecimento de quais são as métricas de negócios importantes para a empresa"
     - level: 3
@@ -75,12 +75,15 @@ topics:
         - "Conhecimento da indústria de serviços"
     - level: 5
       criteria: 
+        - "Domínio de consultoria de resultados com dados"
         - "Domínio de boas práticas de trabalho"
         - "Domínio das métricas de negócios"
         - "Domínio das principais alavancas que temos"
         - "Conhecimento do ecossistema de startups (principais motivações, benchmarks, rodadas de investimento etc)"
+        - "Conhecimento de análise de concorrência, movimentos do mercado e suas implicações"
     - level: 6
       criteria: 
+        - "Dominio na análise de concorrência, movimentos do mercado e suas implicações"
         - "Domínio das principais alavancas de negócios"
         - "Domínio sobre a base de conhecimento da empresa"
         - "Domínio de metodologias ágeis e experimentação enxuta"
@@ -122,14 +125,17 @@ topics:
     - level: 1
       criteria: 
         - "Entendimento básica linguagens de consulta"
+        - "Entendimento básico de ferramentas de visualização"
     - level: 2
       criteria: 
         - "Entendimento básico de cloud"
-        - "Entendimento básico de ferramentas de visualização"
-        - "Entendimento básico de processos de Data (trackings, documentação de análises)"
+        - "Entendimento básico do seu sistema operacional (automação de tarefas)"
+          - "Linux/MacOS X: terminal (bash/zsh/fish/apt)"
+          - "Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
+        - "Entendimento básico de linguagens de programação para dados (Python/R)"
     - level: 3
       criteria: 
-        - "Conhecimento do sistema operacional Linux"
+        
         - "Conhecimento de linguagens de consulta"
         - "Conhecimento de processos de versionamento de código"
         - "Entendimento básico do funcionamento de um Data Pipeline"
