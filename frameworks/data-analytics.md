@@ -1,5 +1,5 @@
 ---
-path: "/data-science-intel"
+path: "/data-warrios"
 title: "🤓 Data Warrior"
 sidebarTitle: "🤓 Data Warrior"
 sidebarGroup:
@@ -33,12 +33,13 @@ topics:
       criteria: 
         - "Conhecimento de dimensionamento de testes"
         - "Domínio de como planejar o dataset de partida para uma análise"
-        - "Domínio de acompanhamento de métricas dos times e ações"
+        - "Domínio de acompanhamento de métricas da empresa e dos squads"
         - "Domínio de testes de hipótese, intervalos de confiança, e distribuições estatísticas"
     - level: 5
       criteria: 
         - "Conhecimento de abordagem Bayesiana"
         - "Domínio de visualização dos dados"
+        - "Domínio de séries temporais e aplicações em projetos"
         - "Domínio de análises exploratórias (EDA) em geral"
         - "Domínio de identificação de vieses e explicações concorrentes"
         - "Domínio de dimensionamento de parâmetros para testes"
@@ -61,12 +62,15 @@ topics:
         - "Entendimento básico de pesquisa e reprodutibilidade de resultados (CRISP-DM ou variações)"
         - "Entendimento básico de experimentação ágil (MVP)"
         - "Conhecimento de quais são as métricas de negócios importantes para a empresa"
+        - "Conhecimento de priorização do tempo e de como metrificar o próprio trabalho"
     - level: 3
       criteria: 
         - "Conhecimento de quais são as principais alavancas do negócio"
         - "Conhecimento de processos e estrutura de organização da empresa"
         - "Conhecimento de priorização"
-        - "Boa visão de negócios"
+        - "Boa visão de negócios e levantamento de projetos de dados com impactos nos negócios"
+        - "Conhecimento de Métricas SaaS"
+        - "Entendimento básico de análise de concorrência, movimentos do mercado e suas implicações"
     - level: 4
       criteria: 
         - "Domínio de priorização do tempo, e da forma mais rápida de entregar valor"
@@ -87,6 +91,8 @@ topics:
         - "Domínio das principais alavancas de negócios"
         - "Domínio sobre a base de conhecimento da empresa"
         - "Domínio de metodologias ágeis e experimentação enxuta"
+        - "Domínio de metricas SaaS"
+        - "Excepcional visão de negócios e de liderança de projetos de dados com impactos nos negócios"
   - name: "Soft skills"
     title: "Soft skills"
     content:
@@ -124,28 +130,38 @@ topics:
     content:
     - level: 1
       criteria: 
-        - "Entendimento básica linguagens de consulta"
+        - "Entendimento básica linguagens de consulta (SQL)"
+          - "Exs: SELECTs, INNER JOIN, GROUP BY, ORDER, HAVING, SUBSELECT"
         - "Entendimento básico de ferramentas de visualização"
+          - "Metabase"
+          - "PowerBI"
     - level: 2
       criteria: 
         - "Entendimento básico de cloud"
         - "Entendimento básico do seu sistema operacional (automação de tarefas)"
           - "Linux/MacOS X: terminal (bash/zsh/fish/apt)"
           - "Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
-        - "Entendimento básico de linguagens de programação para dados (Python/R)"
+        - "Entendimento básico de uma linguagens de programação para dados (Python/R/Scala/Julia)"
+        - "Entendimento básico do principal conjunto de bibliotecas de dados da sua linguagem escolhida (Pandas, Matlib)"
     - level: 3
       criteria: 
-        
-        - "Conhecimento de linguagens de consulta"
-        - "Conhecimento de processos de versionamento de código"
+        - "Conhecimento de linguagens de consulta (SQL)"
+          - "Exs: WINDOW FUNCTION COM [AVG,SUM,PERCENTILE], CTEs"
+        - "Conhecimento de processos de versionamento de código (GIT)"
+        - "Conhecimento do seu sistema operacional (automação de tarefas)"
+          - "Linux/MacOS X: terminal (bash/zsh/fish/apt)"
+          - "Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
+        - "Entendimento básico de ferramentas UNIX (automação de tarefas, pipe, independente do SO preferido)"
         - "Entendimento básico do funcionamento de um Data Pipeline"
         - "Entendimento básico de performance e complexidade de queries"
+        - "Conhecimento de uma linguagem de programação (Python/R/Scala/Julia)"
+        - "Conhecimento do principal conjunto de bibliotecas de dados da sua linguagem escolhida (Pandas, Matlib)"
+        - "Entendimento básico de uma segunda linguagem de programação para dados (Python/R/Scala/Julia)"
     - level: 4
       criteria: 
-        - "Domínio de processos de Data (trackings, documentação de análises)"
-        - "Entendimento básico de ferramentas de visualização"
-        - "Conhecimento de cloud"
-        - "Conhecimento de linguagem(s) de programação"
+        - "Conhecimento de cloud (AWS)"
+        - "Conhecimento de uma segunda linguagem de programação (Python/R/Scala/Julia)"
+        - "Conhecimento do principal conjunto de bibliotecas de dados da sua segunda linguagem (Pandas, Matlib)"
     - level: 5
       criteria: 
         - "Domínio de ferramentas de visualização"
@@ -153,35 +169,18 @@ topics:
         - "Domínio de processos de versionamento de código"
         - "Conhecimento do funcionamento de um Data Pipeline"
         - "Conhecimento de performance e complexidade de queries"
+        - "Conhecimento de linguagens ou bibliotecas para processamento multimáquina de dados (Spark com Scala ou Python com libs adequadas)"
     - level: 6
       criteria: 
         - "Domínio de processos de data modelling (performance, complexidade, processos, code review)"
         - "Domínio (e boas práticas dos processos de Data)"
         - "Bom conhecimento de linguagens de programação, cloud, Linux"
 ---
-### About our progression frameworks
-The progression framework is a tool that helps individuals and leaders:
-- make development and career plans
-- talk about what we’re looking for from individuals in a consistent way
-- set a fair level of compensation.
+### Sobre o Data Warrior
 
-The framework is a compass, not a GPS.
-
-It's meant to be helpful. It's not meant to be a rating system for humans, free from edge cases.
-
-### How does it work?
-The framework covers all the things we’re looking for. We sort them into levels. Each of those levels has a fairly wide salary range associated with it. Basically, the more behaviours you show from your level, the more you’ll progress.
-
-Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
-
-### Things to keep in mind
-- There are many different ways to progress and be valuable to Qconcursos.com as you grow, including deep technical knowledge and ability and people management. All are equally valuable paths in Qconcursos.com.
-- The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
-- User research progression isn’t an exact science and there will always be some ambiguity.
-- This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.
-- There will be levels on top (eg ‘Inventor of the iPhone’), but we won’t add them until we need them.
-
-### Give us your feedback!
-This is only the first version of our framework and we really want your feedback.
-
-We're particularly keen to add as many examples to the behaviours as possible, to further clarify them.
+O Data Warrior ideal é quase um unicórnio dos dados. Você não será ele, afinal trabalhamos em equipe, logo a expectativa é que você faça escolhas coerentes de acordo com seu papel, seja de:
+  - Estagiário ou trainee de dados (lvl 1)
+  - Analista de Inteligência de Dados (lvl 2 a 4, com predominância de técnica e soft skills e algum domínio tecnológico)
+  - Consultor/Líder de Inteligência de Dados (lvl 5 e 6, com predominância de técnica e soft skills, bons produtos de dados voltados para métricas de rotina e algum domínio tecnológico)
+  - Cientista de Dados (lvl 2 a 6, com predominância de técnica, soft skills, produtos de dados voltados para inovação e bom domínio tecnológico)
+  - Engenheiro de Dados (lvl 2 a 6, com excepcional domínio tecnológico, soft skills, razoável em produtos de dados em geral e algum domínio de técnica)
