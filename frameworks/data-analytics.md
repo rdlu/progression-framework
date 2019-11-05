@@ -1,7 +1,7 @@
 ---
-path: "/data-warrios"
-title: "🤓 Data Warrior"
-sidebarTitle: "🤓 Data Warrior"
+path: "/dados-e-inteligencia"
+title: "Pessoas de inteligência com dados (Ciência de dados, Analistas de Inteligência e similares)"
+sidebarTitle: "Inteligência com dados"
 sidebarGroup:
 yaml: true
 levels: 6
