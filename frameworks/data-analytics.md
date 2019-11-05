@@ -168,9 +168,9 @@ topics:
         - "Domínio (e boas práticas dos processos de Data)"
         - "Bom conhecimento de linguagens de programação, cloud, Linux"
 ---
-### Sobre o Data Warrior
+### Sobre as pessoas de dados
 
-O Data Warrior ideal é quase um unicórnio dos dados. Você não será ele, afinal trabalhamos em equipe, logo a expectativa é que você faça escolhas coerentes de acordo com seu papel, seja de:
+Uma pessoa de dados ideal é quase um unicórnio dos dados. Você não será ele, afinal trabalhamos em equipe, logo a expectativa é que você faça escolhas coerentes de acordo com seu papel, seja de:
   - Estagiário ou trainee de dados (lvl 1)
   - Analista de Inteligência de Dados (lvl 2 a 4, com predominância de técnica e soft skills e algum domínio tecnológico)
   - Consultor/Líder de Inteligência de Dados (lvl 5 e 6, com predominância de técnica e soft skills, bons produtos de dados voltados para métricas de rotina e algum domínio tecnológico)
