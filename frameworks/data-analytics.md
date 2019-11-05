@@ -1,6 +1,6 @@
 ---
 path: "/dados-e-inteligencia"
-title: "Pessoas de inteligência com dados (Ciência de dados, Analistas de Inteligência e similares)"
+title: "Pessoas de inteligência com dados (Análise de Inteligência, Ciência e Engenharia de dados)"
 sidebarTitle: "Inteligência com dados"
 sidebarGroup:
 yaml: true
@@ -172,7 +172,7 @@ topics:
 
 Uma pessoa de dados ideal é quase um unicórnio dos dados. Você não será ele, afinal trabalhamos em equipe, logo a expectativa é que você faça escolhas coerentes de acordo com seu papel, seja de:
   - Estagiário ou trainee de dados (lvl 1)
-  - Analista de Inteligência de Dados (lvl 2 a 4, com predominância de técnica e soft skills e algum domínio tecnológico)
-  - Consultor/Líder de Inteligência de Dados (lvl 5 e 6, com predominância de técnica e soft skills, bons produtos de dados voltados para métricas de rotina e algum domínio tecnológico)
+  - Analista em Inteligência de Negócios (lvl 2 a 4, com predominância de técnica e soft skills e algum domínio tecnológico)
+  - Consultor/Líder em Inteligência de Negócios (lvl 5 e 6, com predominância de técnica e soft skills, bons produtos de dados voltados para métricas de rotina e algum domínio tecnológico)
   - Cientista de Dados (lvl 2 a 6, com predominância de técnica, soft skills, produtos de dados voltados para inovação e bom domínio tecnológico)
   - Engenheiro de Dados (lvl 2 a 6, com excepcional domínio tecnológico, soft skills, razoável em produtos de dados em geral e algum domínio de técnica)
