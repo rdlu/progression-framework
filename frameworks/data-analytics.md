@@ -130,27 +130,19 @@ topics:
     content:
     - level: 1
       criteria: 
-        - "Entendimento básica linguagens de consulta (SQL)"
-          - "Exs: SELECTs, INNER JOIN, GROUP BY, ORDER, HAVING, SUBSELECT"
-        - "Entendimento básico de ferramentas de visualização"
-          - "Metabase"
-          - "PowerBI"
+        - "Entendimento básica linguagens de consulta (SQL). Exs: SELECTs, INNER JOIN, GROUP BY, ORDER, HAVING, SUBSELECT"
+        - "Entendimento básico de ferramentas de visualização. Exs: Metabase, PowerBI"
     - level: 2
       criteria: 
         - "Entendimento básico de cloud"
-        - "Entendimento básico do seu sistema operacional (automação de tarefas)"
-          - "Linux/MacOS X: terminal (bash/zsh/fish/apt)"
-          - "Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
+        - "Entendimento básico do seu sistema operacional (automação de tarefas). Linux/MacOS X: terminal (bash/zsh/fish/apt); Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
         - "Entendimento básico de uma linguagens de programação para dados (Python/R/Scala/Julia)"
         - "Entendimento básico do principal conjunto de bibliotecas de dados da sua linguagem escolhida (Pandas, Matlib)"
     - level: 3
       criteria: 
-        - "Conhecimento de linguagens de consulta (SQL)"
-          - "Exs: WINDOW FUNCTION COM [AVG,SUM,PERCENTILE], CTEs"
+        - "Conhecimento de linguagens de consulta (SQL). *Exs: WINDOW FUNCTION COM [AVG,SUM,PERCENTILE], CTEs*"
         - "Conhecimento de processos de versionamento de código (GIT)"
-        - "Conhecimento do seu sistema operacional (automação de tarefas)"
-          - "Linux/MacOS X: terminal (bash/zsh/fish/apt)"
-          - "Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
+        - "Conhecimento do seu sistema operacional (automação de tarefas). Linux/MacOS X: terminal (bash/zsh/fish/apt); Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
         - "Entendimento básico de ferramentas UNIX (automação de tarefas, pipe, independente do SO preferido)"
         - "Entendimento básico do funcionamento de um Data Pipeline"
         - "Entendimento básico de performance e complexidade de queries"
