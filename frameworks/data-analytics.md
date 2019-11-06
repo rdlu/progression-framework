@@ -1,7 +1,7 @@
 ---
 path: "/dados-e-inteligencia"
-title: "Pessoas de inteligência com dados (Análise de Inteligência, Ciência e Engenharia de dados)"
-sidebarTitle: "Inteligência com dados"
+title: "👩‍🏭 Pessoas de inteligência com dados (Análise de Inteligência, Ciência e Engenharia de dados)"
+sidebarTitle: "👩‍🏭 Inteligência com dados"
 sidebarGroup:
 yaml: true
 levels: 6
