@@ -172,7 +172,7 @@ topics:
 ---
 ### Sobre as pessoas de dados
 
-Uma pessoa de dados ideal é quase um unicórnio dos dados. Você não será ele, afinal trabalhamos em equipe, logo a expectativa é que você faça escolhas coerentes de acordo com seu papel, seja de:
+Uma pessoa de dados ideal é quase um unicórnio dos dados. Você não será ele, afinal trabalhamos em equipe, logo a expectativa é que você faça escolhas coerentes de acordo com seu papel, sua carreira e seu historico passado, seja nos papéis de:
   - Estagiário ou trainee de dados (lvl 1)
   - Analista em Inteligência de Negócios (lvl 2 a 4, com predominância de técnica e soft skills e algum domínio tecnológico)
   - Consultor/Líder em Inteligência de Negócios (lvl 5 e 6, com predominância de técnica e soft skills, bons produtos de dados voltados para métricas de rotina e algum domínio tecnológico)
