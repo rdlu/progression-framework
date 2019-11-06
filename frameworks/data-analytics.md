@@ -71,12 +71,13 @@ topics:
         - "Boa visão de negócios e levantamento de projetos de dados com impactos nos negócios"
         - "Conhecimento de Métricas SaaS"
         - "Entendimento básico de análise de concorrência, movimentos do mercado e suas implicações"
+        - "Entendimento básico da indústria de serviços de dados e potenciais fornecedores de dados"
     - level: 4
       criteria: 
         - "Domínio de priorização do tempo, e da forma mais rápida de entregar valor"
         - "Domínio de processos internos da empresa"
         - "Conhecimento de metodologias ágeis"
-        - "Conhecimento da indústria de serviços"
+        - "Conhecimento da indústria de serviços de dados e potenciais fornecedores de dados"
     - level: 5
       criteria: 
         - "Domínio de consultoria de resultados com dados"
@@ -166,7 +167,8 @@ topics:
       criteria: 
         - "Domínio de processos de data modelling (performance, complexidade, processos, code review)"
         - "Domínio (e boas práticas dos processos de Data)"
-        - "Bom conhecimento de linguagens de programação, cloud, Linux"
+        - "Conhecimento de arquitetura de pipeline de dados, conceitualmente, em multiplos servicos de cloud ou maquinas bare metal"
+        - "Dominio na arquitetura e implementacao de data lakes, data marts e data warehouses escalaveis"
 ---
 ### Sobre as pessoas de dados
 
