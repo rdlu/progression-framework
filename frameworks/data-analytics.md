@@ -1,7 +1,7 @@
 ---
 path: "/dados-e-inteligencia"
-title: "Pessoas de inteligência com dados (Análise de Inteligência, Ciência e Engenharia de dados)"
-sidebarTitle: "Inteligência com dados"
+title: "👩‍🏭 Pessoas de inteligência com dados (Análise de Inteligência, Ciência e Engenharia de dados)"
+sidebarTitle: "👩‍🏭 Inteligência com dados"
 sidebarGroup:
 yaml: true
 levels: 6
@@ -71,12 +71,13 @@ topics:
         - "Boa visão de negócios e levantamento de projetos de dados com impactos nos negócios"
         - "Conhecimento de Métricas SaaS"
         - "Entendimento básico de análise de concorrência, movimentos do mercado e suas implicações"
+        - "Entendimento básico da indústria de serviços de dados e potenciais fornecedores de dados"
     - level: 4
       criteria: 
         - "Domínio de priorização do tempo, e da forma mais rápida de entregar valor"
         - "Domínio de processos internos da empresa"
         - "Conhecimento de metodologias ágeis"
-        - "Conhecimento da indústria de serviços"
+        - "Conhecimento da indústria de serviços de dados e potenciais fornecedores de dados"
     - level: 5
       criteria: 
         - "Domínio de consultoria de resultados com dados"
@@ -170,11 +171,12 @@ topics:
       criteria: 
         - "Domínio de processos de data modelling (performance, complexidade, processos, code review)"
         - "Domínio (e boas práticas dos processos de Data)"
-        - "Bom conhecimento de linguagens de programação, cloud, Linux"
+        - "Conhecimento de arquitetura de pipeline de dados, conceitualmente, em multiplos servicos de cloud ou maquinas bare metal"
+        - "Dominio na arquitetura e implementacao de data lakes, data marts e data warehouses escalaveis"
 ---
 ### Sobre as pessoas de dados
 
-Uma pessoa de dados ideal é quase um unicórnio dos dados. Você não será ele, afinal trabalhamos em equipe, logo a expectativa é que você faça escolhas coerentes de acordo com seu papel, seja de:
+Uma pessoa de dados ideal é quase um unicórnio dos dados. Você não será ele, afinal trabalhamos em equipe, logo a expectativa é que você faça escolhas coerentes de acordo com seu papel, sua carreira e seu historico passado, seja nos papéis de:
   - Estagiário ou trainee de dados (lvl 1)
   - Analista em Inteligência de Negócios (lvl 2 a 4, com predominância de técnica e soft skills e algum domínio tecnológico)
   - Consultor/Líder em Inteligência de Negócios (lvl 5 e 6, com predominância de técnica e soft skills, bons produtos de dados voltados para métricas de rotina e algum domínio tecnológico)
