@@ -72,8 +72,8 @@ topics:
           - Assume riscos e visiona o que pode não existir hoje e colabora com os outros para gerar estratégias e dar vida a novas visões
           - Incentiva os outros a experimentar e aprender com o erro
           - Busca oportunidades e áreas de negócio onde soluções criativas ajudarão a melhorar a produtividade
-  - name: "historias"
-    title: "💬 Um milhão de histórias"
+  - name: "comunicacao"
+    title: "💬 Comunicação"
     content:
       - level: 1
         criteria:

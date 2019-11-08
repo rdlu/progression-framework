@@ -128,10 +128,14 @@ topics:
   - name: "Domínio tecnológico em dados"
     title: "Domínio tecnológico em dados"
     content:
-    - level: 1
-      criteria: 
-        - "Entendimento básica linguagens de consulta (SQL). Exs: SELECTs, INNER JOIN, GROUP BY, ORDER, HAVING, SUBSELECT"
-        - "Entendimento básico de ferramentas de visualização. Exs: Metabase, PowerBI"
+    - level: 1        
+      exampleCriteria:
+        - criteria: "Entendimento básica linguagens de consulta (SQL)."
+          examples:
+            - "SELECTs, INNER JOIN, GROUP BY, ORDER, HAVING, SUBSELECT"
+        - criteria: "Entendimento básico de ferramentas de visualização"
+          examples: 
+            - "Por ex: Metabase, PowerBI"
     - level: 2
       criteria: 
         - "Entendimento básico de cloud"
