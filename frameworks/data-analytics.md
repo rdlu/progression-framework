@@ -129,46 +129,53 @@ topics:
   - name: "Domínio tecnológico em dados"
     title: "Domínio tecnológico em dados"
     content:
-    - level: 1
-      criteria: 
-        - "Entendimento básica linguagens de consulta (SQL). Exs: SELECTs, INNER JOIN, GROUP BY, ORDER, HAVING, SUBSELECT"
-        - "Entendimento básico de ferramentas de visualização. Exs: Metabase, PowerBI"
-    - level: 2
-      criteria: 
-        - "Entendimento básico de cloud"
-        - "Entendimento básico do seu sistema operacional (automação de tarefas). Linux/MacOS X: terminal (bash/zsh/fish/apt); Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
-        - "Entendimento básico de uma linguagens de programação para dados (Python/R/Scala/Julia)"
-        - "Entendimento básico do principal conjunto de bibliotecas de dados da sua linguagem escolhida (Pandas, Matlib)"
-    - level: 3
-      criteria: 
-        - "Conhecimento de linguagens de consulta (SQL). *Exs: WINDOW FUNCTION COM [AVG,SUM,PERCENTILE], CTEs*"
-        - "Conhecimento de processos de versionamento de código (GIT)"
-        - "Conhecimento do seu sistema operacional (automação de tarefas). Linux/MacOS X: terminal (bash/zsh/fish/apt); Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
-        - "Entendimento básico de ferramentas UNIX (automação de tarefas, pipe, independente do SO preferido)"
-        - "Entendimento básico do funcionamento de um Data Pipeline"
-        - "Entendimento básico de performance e complexidade de queries"
-        - "Conhecimento de uma linguagem de programação (Python/R/Scala/Julia)"
-        - "Conhecimento do principal conjunto de bibliotecas de dados da sua linguagem escolhida (Pandas, Matlib)"
-        - "Entendimento básico de uma segunda linguagem de programação para dados (Python/R/Scala/Julia)"
-    - level: 4
-      criteria: 
-        - "Conhecimento de cloud (AWS)"
-        - "Conhecimento de uma segunda linguagem de programação (Python/R/Scala/Julia)"
-        - "Conhecimento do principal conjunto de bibliotecas de dados da sua segunda linguagem (Pandas, Matlib)"
-    - level: 5
-      criteria: 
-        - "Domínio de ferramentas de visualização"
-        - "Domínio de linguagens de consulta"
-        - "Domínio de processos de versionamento de código"
-        - "Conhecimento do funcionamento de um Data Pipeline"
-        - "Conhecimento de performance e complexidade de queries"
-        - "Conhecimento de linguagens ou bibliotecas para processamento multimáquina de dados (Spark com Scala ou Python com libs adequadas)"
-    - level: 6
-      criteria: 
-        - "Domínio de processos de data modelling (performance, complexidade, processos, code review)"
-        - "Domínio (e boas práticas dos processos de Data)"
-        - "Conhecimento de arquitetura de pipeline de dados, conceitualmente, em multiplos servicos de cloud ou maquinas bare metal"
-        - "Dominio na arquitetura e implementacao de data lakes, data marts e data warehouses escalaveis"
+      - level: 1
+        criteria:
+          - "Entendimento básica linguagens de consulta (SQL). [SELECTs, INNER JOIN, GROUP BY, ORDER, HAVING, SUBSELECT]"
+          - "Entendimento básico de ferramentas de visualização. [Metabase, PowerBI]"    
+        exampleCriteria:
+          - criteria: "Entendimento básica linguagens de consulta (SQL)."
+            examples:
+              - "SELECTs, INNER JOIN, GROUP BY, ORDER, HAVING, SUBSELECT"
+          - criteria: "Entendimento básico de ferramentas de visualização"
+            examples: 
+              - "Por ex: Metabase, PowerBI"
+      - level: 2
+        criteria: 
+          - "Entendimento básico de cloud"
+          - "Entendimento básico do seu sistema operacional (automação de tarefas). Linux/MacOS X: terminal (bash/zsh/fish/apt); Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
+          - "Entendimento básico de uma linguagens de programação para dados (Python/R/Scala/Julia)"
+          - "Entendimento básico do principal conjunto de bibliotecas de dados da sua linguagem escolhida (Pandas, Matlib)"
+      - level: 3
+        criteria: 
+          - "Conhecimento de linguagens de consulta (SQL). *Exs: WINDOW FUNCTION COM [AVG,SUM,PERCENTILE], CTEs*"
+          - "Conhecimento de processos de versionamento de código (GIT)"
+          - "Conhecimento do seu sistema operacional (automação de tarefas). Linux/MacOS X: terminal (bash/zsh/fish/apt); Windows 10: prompt de comando (powershell/bat/bash/chocolatey)"
+          - "Entendimento básico de ferramentas UNIX (automação de tarefas, pipe, independente do SO preferido)"
+          - "Entendimento básico do funcionamento de um Data Pipeline"
+          - "Entendimento básico de performance e complexidade de queries"
+          - "Conhecimento de uma linguagem de programação (Python/R/Scala/Julia)"
+          - "Conhecimento do principal conjunto de bibliotecas de dados da sua linguagem escolhida (Pandas, Matlib)"
+          - "Entendimento básico de uma segunda linguagem de programação para dados (Python/R/Scala/Julia)"
+      - level: 4
+        criteria: 
+          - "Conhecimento de cloud (AWS)"
+          - "Conhecimento de uma segunda linguagem de programação (Python/R/Scala/Julia)"
+          - "Conhecimento do principal conjunto de bibliotecas de dados da sua segunda linguagem (Pandas, Matlib)"
+      - level: 5
+        criteria: 
+          - "Domínio de ferramentas de visualização"
+          - "Domínio de linguagens de consulta"
+          - "Domínio de processos de versionamento de código"
+          - "Conhecimento do funcionamento de um Data Pipeline"
+          - "Conhecimento de performance e complexidade de queries"
+          - "Conhecimento de linguagens ou bibliotecas para processamento multimáquina de dados (Spark com Scala ou Python com libs adequadas)"
+      - level: 6
+        criteria: 
+          - "Domínio de processos de data modelling (performance, complexidade, processos, code review)"
+          - "Domínio (e boas práticas dos processos de Data)"
+          - "Conhecimento de arquitetura de pipeline de dados, conceitualmente, em multiplos servicos de cloud ou maquinas bare metal"
+          - "Dominio na arquitetura e implementacao de data lakes, data marts e data warehouses escalaveis"
 ---
 ### Sobre as pessoas de dados
 
