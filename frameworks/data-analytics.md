@@ -95,7 +95,7 @@ topics:
         - "Domínio de metricas SaaS"
         - "Excepcional visão de negócios e de liderança de projetos de dados com impactos nos negócios"
   - name: "Soft skills"
-    title: "Soft skills"
+    title: "✨ Soft skills"
     content:
     - level: 1
       criteria: 
@@ -178,3 +178,27 @@ Uma pessoa de dados ideal é quase um unicórnio dos dados. Você não será ele
   - Consultor/Líder em Inteligência de Negócios (lvl 5 e 6, com predominância de técnica e soft skills, bons produtos de dados voltados para métricas de rotina e algum domínio tecnológico)
   - Cientista de Dados (lvl 2 a 6, com predominância de técnica, soft skills, produtos de dados voltados para inovação e bom domínio tecnológico)
   - Engenheiro de Dados (lvl 2 a 6, com excepcional domínio tecnológico, soft skills, razoável em produtos de dados em geral e algum domínio de técnica)
+
+### Como esse framework funciona?
+
+Esse framework, ou esqueleto funcional, cobre as habilidades e técnicas que sao esperadas das pessoas que lidam com dados dentro da Qconcursos.com.
+Para facilitar a contextualizaçao, dividimos os tópicos da seguinte maneira:
+
+- Mastery - Your Monzo knowledge and technical capability
+- Impact - The size, scope and value of what you deliver
+- Influence - How you change the world around you for the better
+- Comms & Feedback - How you interact with others
+- Leadership - How people around you become better and more impactful
+- Domínio Técnico de dados: 
+
+We sort them into six levels, and we try to give specific examples of behaviours we expect for each. Each of those levels has a fairly wide salary range associated with it, and within each level you can progress in sub-levels, labelled A–E. So even if you’re at level 3 for a couple of years, you’ll still be able to see that you’re moving forward. Basically, the more behaviours you show from your level, the more you’ll progress.
+
+Your manager will work with you on this. None of it will happen mysteriously behind closed doors. You’ll agree what level of progression you’re going for and what you need to improve on with your manager. It should be clear how you’re doing relative to that at all times.
+
+### Things to keep in mind
+- There are many different ways to progress and be valuable to Monzo as you grow, including deep technical knowledge and ability, technical leadership and people management. All are equally valuable paths in Monzo's engineering team.
+- The framework represents a career’s worth of progression, people shouldn’t expect to fly up it in 18 months!
+- Engineering progression isn’t an exact science and there will always be some ambiguity.
+- This isn’t a checklist – it’s possible to progress up a level without showing all the behaviours in that level.
+- There will be levels on top (eg ‘Inventor of Android’ or ‘Author of Go’), but we won’t add them until we need them.
+- You can find some more information in these links. If that doesn't answer most of your questions, please ask your manager.
